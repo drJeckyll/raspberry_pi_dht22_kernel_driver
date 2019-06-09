@@ -1,3 +1,7 @@
+# THIS CODE IS OBSOLETE AND WILL NOT BE UPDATED ANYMORE
+Please use new repo here: https://git.jeckyll.net/published/personal/raspberry_pi_dht22_kernel_driver
+
+
 raspberry_pi_dht22_kernel_driver
 ================================
 
